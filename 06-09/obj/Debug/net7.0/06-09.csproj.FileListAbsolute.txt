@@ -1,0 +1,15 @@
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\bin\Debug\net7.0\06-09.exe
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\bin\Debug\net7.0\06-09.deps.json
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\bin\Debug\net7.0\06-09.runtimeconfig.json
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\bin\Debug\net7.0\06-09.dll
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\bin\Debug\net7.0\06-09.pdb
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.csproj.AssemblyReference.cache
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.AssemblyInfoInputs.cache
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.AssemblyInfo.cs
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.csproj.CoreCompileInputs.cache
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.dll
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\refint\06-09.dll
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.pdb
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\06-09.genruntimeconfig.cache
+D:\Users\Sanr\Programming\Revature\coding-challenge\06-09\obj\Debug\net7.0\ref\06-09.dll
